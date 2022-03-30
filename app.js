@@ -7,7 +7,8 @@ console.log("otro commit");
 console.log("Mario");
 
 console.log("Ceci");
-console.log("Un nuevo cambio - Cecy");
+console.log("Un nuevo cambio");
+console.log("Ultimo cambio");
 
 console.log("Guzman");
 console.log("Una linea mas");
