@@ -1,2 +1,3 @@
 console.log("holamundo");
-console.log("Hola");
+console.log("Sonia");
+console.log("Mario");
