@@ -1,7 +1,6 @@
 console.log("holamundo");
-console.log("Sonia");
+console.log("rodri");
 console.log("Mario");
 console.log("Ceci");
-console.log("Mario");
 console.log("Guzman");
 console.log("Fabio");
