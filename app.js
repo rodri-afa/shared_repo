@@ -1,5 +1,5 @@
 console.log("holamundo");
-console.log("hola 2")
+console.log("hola 2");
 console.log("hola");
 
 console.log("rodri");
@@ -23,4 +23,4 @@ console.log("Sonia2");
 console.log("Alberto");
 console.log("Alberto 2");
 
-console.log("ultimo commig");
+console.log("ultimo commigslkgdfnlkdfj");
